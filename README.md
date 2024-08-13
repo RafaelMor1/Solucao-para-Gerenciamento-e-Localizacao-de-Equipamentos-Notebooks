@@ -1,0 +1,2 @@
+# Solucao-para-Gerenciamento-e-Localizacao-de-Equipamentos-Notebooks
+Sistema para auxiliar na gestão e rastreamento de notebooks locados pela empresa Blocktime. A solução visa reduzir o risco de perda de equipamentos e melhorar a gestão de ativos, oferecendo funcionalidades para localização aproximada dos dispositivos e gerenciamento de pedidos, clientes, orçamentos, vendas, locações e emissão de notas fiscais.
